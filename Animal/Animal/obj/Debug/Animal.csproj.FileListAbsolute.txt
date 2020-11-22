@@ -1,0 +1,10 @@
+C:\Users\10558\source\repos\Animal\Animal\bin\Debug\Animal.exe.config
+C:\Users\10558\source\repos\Animal\Animal\bin\Debug\Animal.exe
+C:\Users\10558\source\repos\Animal\Animal\bin\Debug\Animal.pdb
+C:\Users\10558\source\repos\Animal\Animal\obj\Debug\Animal.csprojAssemblyReference.cache
+C:\Users\10558\source\repos\Animal\Animal\obj\Debug\Animal.Form1.resources
+C:\Users\10558\source\repos\Animal\Animal\obj\Debug\Animal.Properties.Resources.resources
+C:\Users\10558\source\repos\Animal\Animal\obj\Debug\Animal.csproj.GenerateResource.cache
+C:\Users\10558\source\repos\Animal\Animal\obj\Debug\Animal.csproj.CoreCompileInputs.cache
+C:\Users\10558\source\repos\Animal\Animal\obj\Debug\Animal.exe
+C:\Users\10558\source\repos\Animal\Animal\obj\Debug\Animal.pdb
